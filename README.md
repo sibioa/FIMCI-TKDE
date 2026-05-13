@@ -1,7 +1,9 @@
 <h2 align="center">Federated Incomplete Multi-view Clustering with Cross-view 
 Relationship Imputation</h2>
-
+<p align="center">
 ![License](https://img.shields.io/badge/Accepted-TPAMI'2026-purple)
+</p>
+
 <p align="center">
   <b>Shuaijun Wang<sup>1,2</sup>, Hui Huang<sup>1,2</sup>, Nan Zhang<sup>1,2</sup>,Shiliang Sun<sup>3,4</sup></b>
 </p>
@@ -19,11 +21,6 @@ China<br>
 
 </p>
 
-
-
-<p align="center">
-  🔥 Our work has been accepted by TKDE 2026!<br>
-</p>
 
 ## Overview🔍
 <div>

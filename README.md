@@ -1,8 +1,12 @@
 <h2 align="center">Federated Incomplete Multi-view Clustering with Cross-view 
 Relationship Imputation</h2>
-<p align="center">
-![License](https://img.shields.io/badge/Accepted-TPAMI'2026-purple)
-</p>
+
+<div align="center">
+
+![License](https://img.shields.io/badge/Accepted-TKDE'2026-green)
+
+</div>
+
 
 <p align="center">
   <b>Shuaijun Wang<sup>1,2</sup>, Hui Huang<sup>1,2</sup>, Nan Zhang<sup>1,2</sup>,Shiliang Sun<sup>3,4</sup></b>

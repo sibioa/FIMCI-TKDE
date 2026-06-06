@@ -46,12 +46,14 @@ China<br>
 
 ## Cite our work📝
 ```bibtex
-@ARTICLE{FIMCI,
+@ARTICLE{11516276,
   author={Wang, Shuaijun and Huang, Hui and Zhang, Nan and Sun, Shiliang},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={Federated Incomplete Multi-view Clustering with Cross-view Relationship Imputation}, 
+  title={Federated Incomplete Multi-View Clustering With Cross-View Relationship Imputation}, 
   year={2026},
-  pages={1-13},
-  keywords={Modeling;Learning (artificial intelligence);Labeling;Servers;Optimization;Federated learning;Machine learning;Educational institutions;Conferences;Machining;Incomplete multi-view clustering;Federated learning;Contrastive learning},
+  volume={38},
+  number={7},
+  pages={4344-4356},
+  keywords={Modeling;Learning (artificial intelligence);Labeling;Servers;Optimization;Federated learning;Machine learning;Educational institutions;Conferences;Machining;Incomplete multi-view clustering;federated learning;contrastive learning},
   doi={10.1109/TKDE.2026.3692681}}
 ```
